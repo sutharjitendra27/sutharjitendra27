@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jitendra Suthar</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Full Stack Web developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZlZmVmMmExMThhYzJjZTk0NGZiN2YwZGFhZjM0YjY5ZTFmZjQyMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sutharjitendra27&label=Profile%20views&color=0e75b6&style=flat" alt="sutharjitendra27" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack Web Development**
+- 🌱 I’m currently Working as **Full Stack Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-jitendra.netlify.app/](https://portfolio-jitendra.netlify.app/)
 
@@ -25,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sutharjitendra27&show_icons=true&locale=en&layout=compact" alt="sutharjitendra27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sutharjitendra27&show_icons=true&locale=en" alt="sutharjitendra27" /></p>
-
