@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Working as **Full Stack Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jitendra.netlify.app/](https://portfolio-jitendra.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-jitendra.netlify.app/](https://jitendra-suthar.vercel.app/)
 
 - 📫 How to reach me **sutharj907@gmail.com**
 
