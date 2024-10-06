@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jitendra Suthar</h1>
+<h1 align="center">Hi 👋! I'm Jitendra Suthar</h1>
 <h3 align="center">A Passionate Full Stack Web developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZlZmVmMmExMThhYzJjZTk0NGZiN2YwZGFhZjM0YjY5ZTFmZjQyMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
